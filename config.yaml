@@ -1,26 +1,15 @@
-baseurl: https://example.com
-languageCode: en-us
+baseurl: https://my-hugo-blog-196.pages.dev
+languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: 芜湖！简约的博客
 
 languages:
-    en:
-        languageName: English
-        title: Example Site
-        description: Example description
-        weight: 1
     zh-cn:
         languageName: 中文
-        title: 演示站点
-        description: 演示说明
+        title: 呜呼！简约的博客
+        description: 一个神奇的地方
         weight: 2
-    ar:
-        languageName: عربي
-        languagedirection: rtl
-        title: موقع تجريبي
-        description: وصف تجريبي
-        weight: 3
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
