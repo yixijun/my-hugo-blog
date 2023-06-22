@@ -51,7 +51,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/heita.jpg
+            src: 黑塔_98650216.jpg
     article:
         math: false
         toc: true
