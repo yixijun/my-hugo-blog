@@ -50,8 +50,8 @@ params:
 
         avatar:
             enabled: true
-            local: true
-            src: 黑塔_98650216.jpg
+            local: false
+            src: https://s1.ax1x.com/2023/06/22/pCJqMzn.jpg
     article:
         math: false
         toc: true
